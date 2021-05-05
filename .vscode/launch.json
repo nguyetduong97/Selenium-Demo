@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AlertHandle",
+            "request": "launch",
+            "mainClass": "AlertHandle",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch UploadFile",
+            "request": "launch",
+            "mainClass": "UploadFile",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MouseClick",
+            "request": "launch",
+            "mainClass": "MouseClick",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControllingDropdownbox",
+            "request": "launch",
+            "mainClass": "ControllingDropdownbox",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccessingImageLink",
+            "request": "launch",
+            "mainClass": "AccessingImageLink",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginSite",
+            "request": "launch",
+            "mainClass": "LoginSite",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PG2",
+            "request": "launch",
+            "mainClass": "PG2",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PG4",
+            "request": "launch",
+            "mainClass": "PG4",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RadioButtonCheckbox",
+            "request": "launch",
+            "mainClass": "RadioButtonCheckbox",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchingPopup",
+            "request": "launch",
+            "mainClass": "SwitchingPopup",
+            "projectName": "TestJava_cbe5163f"
+        },
+        {
+            "type": "java",
+            "name": "Launch nameDemo",
+            "request": "launch",
+            "mainClass": "nameDemo",
+            "projectName": "TestJava_cbe5163f"
+        }
+    ]
+}
